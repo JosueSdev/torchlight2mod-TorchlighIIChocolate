@@ -14,6 +14,8 @@ Torchlight II Guts
 
 ## Dependencies
 
+Almost every tweak in Chocolate assumes you're using the following mods, standalone Chocolate offers a broken and inconsistent gameplay.
+
 ### Raxz's Gameplay Tweaks (v.19)
 
 [torchmodders](https://www.torchlightfansite.com/mod_downloads/misc-tl2/download-1528-raxzs-gameplay-tweaks.html)
@@ -26,7 +28,7 @@ Chocolate edits Raxz's files. It can work without it, but the gameplay experienc
 
 [clockworkcore](http://clockworkcore.org/modindex.html)
 
-Almost every balance tweak in Chocolate assumes you're using ArmorFix. No public link exists for v2 since Torchmodders went down and the link provided only lists v1, you can either install v1 for a very similar experience or ask around for v2.
+No public link exists for v2 since Torchmodders went down and the link provided only lists v1, you can either install v1 for a very similar experience or ask around for v2.
 
 ## Public Build (?)
 
