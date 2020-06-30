@@ -22,8 +22,6 @@ Almost every tweak in Chocolate assumes you're using the following mods, standal
 |
 [steam](https://www.torchlightfansite.com/mod_downloads/misc-tl2/download-1528-raxzs-gameplay-tweaks.html)
 
-Chocolate edits Raxz's files. It can work without it, but the gameplay experience will inconsistent.
-
 ### ArmorFix Fixed (also known as ArmorFix v2)
 
 [clockworkcore](http://clockworkcore.org/modindex.html)
