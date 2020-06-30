@@ -32,9 +32,9 @@ No public link exists for v2 since Torchmodders went down and the link provided 
 
 Only if I eventually get permission to publish a merge with dependencies included.
 
-#### This mod goes above its dependecies on the load order.
+**This mod goes above its dependecies on the load order.**
 
-#### This mod edits files from the base base game, son it can cause unexpected results when combined with other mods.
+**This mod edits files from the base base game, son it can cause unexpected results when combined with other mods.**
 
 ## Description
 
